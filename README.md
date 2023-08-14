@@ -62,7 +62,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project Snapshot](movie.gif)
+![Project Snapshot](reactmovieapp.gif)
 
 ## Objective
 
